@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @heshegto
 - 👀 I’m interested in Artificial Intelligence
-- 🌱 I’m currently learning open library Keras
+- 🌱 I’m currently learning Keras library 
 - 💞️ I’m looking to collaborate on AI or ML
 - 📫 If you want contact me please write to the email heshkin@gmail.com
