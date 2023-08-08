@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @heshegto
-- 👀 I’m interested in Artificial Intelligence
-- 🌱 I’m currently learning Keras library 
-- 💞️ I’m looking to collaborate on AI or ML
+- 👀 I’m interested in Artificial Intelligence and looking to collaborate on AI or ML
+- 📗 There you can see my projects: implementation of Symplex Method and Cuckoo Search (its all Ml); Gymnasium environment of Minesweeper Game (its RL)
 - 📫 If you want contact me please write to the email heshkin@gmail.com
