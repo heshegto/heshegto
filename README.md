@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @heshegto
 - 👀 I’m interested in Backend Development, ML and Artificial Intelligence
-- 📗 There you can see my projects: implementation of Symplex Method and Cuckoo Search (its all Ml); Gymnasium environment of Minesweeper Game (its RL); also there is my Django projects
+- 📗 There you can see my projects: implementation of Symplex Method and Cuckoo Search (its all Ml); Minesweeper Game; Gymnasium environment of Minesweeper Game (its RL); also there is my Django projects
 - 📫 If you want contact me please write to the email heshkin@gmail.com
